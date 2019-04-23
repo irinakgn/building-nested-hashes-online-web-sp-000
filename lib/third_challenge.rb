@@ -17,7 +17,7 @@ def third_challenge
       :hero_friends => [
         {:age=>"17", :attitude=>"worried", :name=>"Benvolio"},
         {:age=>"18", :attitude=>"hot-headed", :name=>"Mercutio"}]
-   }, 
+   },
    :capulet => {
       :patriarch => {
         :name=> "Lord Capulet",
